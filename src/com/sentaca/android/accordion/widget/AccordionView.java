@@ -29,7 +29,7 @@ public class AccordionView extends LinearLayout {
   private int headerLabel;
   private int sectionContainer;
   private int sectionContainerParent;
-  private int sectionBottom;
+  private int sectionBottom; 
 
   private String[] sectionHeaders;
 
